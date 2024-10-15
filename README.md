@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @muneebkh
 - 👀 I’m interested in Learning programming and building interesting softwares
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me muneeb.kh765@gmail.com
